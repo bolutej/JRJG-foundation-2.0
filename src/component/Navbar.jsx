@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "../App.css";
-import logoIcon from "../assets/logo.svg"
+import logoIcon from "../assets/Logo.svg"
 import lineIcon from "../assets/line.svg"
 
 export default function Navbar ({ links }) {
