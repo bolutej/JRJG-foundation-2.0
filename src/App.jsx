@@ -3,7 +3,7 @@ import facebookIcon from "./assets/facebook.svg"
 import twitterIcon from "./assets/twitter.svg"
 import instagramIcon from "./assets/instagram.svg"
 import lineIcon from "./assets/line.svg"
-import logoIcon from "./assets/logo.svg"
+import logoIcon from "./assets/Logo.svg"
 import image1 from './assets/jrjf-1.png'
 import image2 from './assets/jrjf-2.png'
 import image9 from './assets/jrjf-9.png'
