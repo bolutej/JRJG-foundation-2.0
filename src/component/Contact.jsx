@@ -14,7 +14,7 @@ export default function Contact() {
         setToast({ message, type, show: true});
         setTimeout(() => { 
             setToast((prev) => ({...prev, show: false}))
-        }, 3000);
+        }, 3000)
     };
 
     const handleChange = (e) => {
