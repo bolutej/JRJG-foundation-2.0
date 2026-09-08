@@ -9,7 +9,7 @@ import image2 from './assets/jrjf-2.png'
 import image9 from './assets/jrjf-9.png'
 import image12 from './assets/jrjf-12.png'
 import video from './assets/video_horizontal.mp4'
-import Characters from './component/Characters'
+import Contact from './component/Contact'
 import Gallery from './component/Gallery'
 import Typewriter from './component/Typewriter'
 import Navbar from './component/Navbar'
@@ -115,7 +115,7 @@ function App() {
         </div>
       </section>
 
-      <section id="donate">
+      {/* <section id="donate">
             <div>
             <h1>Partner with Us<br/> in this work</h1>
             <p>If God is speaking to you about this foundation,<br/>we'd love to hear from you - whether to give, to<br/>or to collaborate.</p>
@@ -125,7 +125,9 @@ function App() {
                 <input type="email" placeholder="Email Address" id="email" /><br/>
                <div><Characters/></div>
             </form>
-      </section>
+      </section> */}
+      
+      <Contact />
 
       <footer id="contacts">
         <div>
