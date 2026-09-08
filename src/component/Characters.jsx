@@ -2,7 +2,7 @@
 import '../App.css';
 
     const MAX_LENGTH = 200;
-    const WARNING_LENGTH = 50;
+    const WARNING_LENGTH = 50; 
 
 export default function Characters({ value="" , onChange = () => {}}) {
      const remaining = MAX_LENGTH - value.length;
